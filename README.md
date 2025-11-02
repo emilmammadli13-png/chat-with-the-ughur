@@ -1,2 +1,7 @@
 # chat-with-the-ughur
-this will be a repositry
+
+ughur we can chat here for something, like asking things, when you open the pc for first time, open this repositry and type, answer, ask something, aight?
+also when you write thing, type it like this:
+
+Emil: Yo wsg, how did you do the first homework
+Ughur: Yo bla bla bla bla
